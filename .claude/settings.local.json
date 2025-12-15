@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /s /B:*)",
+      "Bash(npm run dev:*)",
+      "Bash(dir /s /b \"c:\\Users\\Rahmani\\Desktop\\ERP\\vdo erp\\front\\src\")",
+      "Bash(npm run build:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

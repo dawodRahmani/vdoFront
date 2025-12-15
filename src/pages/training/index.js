@@ -1,0 +1,10 @@
+export { default as TrainingDashboard } from './TrainingDashboard';
+export { default as TrainingTypes } from './TrainingTypes';
+export { default as TrainingPrograms } from './TrainingPrograms';
+export { default as TNAList } from './TNAList';
+export { default as TNAForm } from './TNAForm';
+export { default as TrainingsList } from './TrainingsList';
+export { default as TrainingForm } from './TrainingForm';
+export { default as TrainingCalendar } from './TrainingCalendar';
+export { default as TrainingCertificates } from './TrainingCertificates';
+export { default as TrainingBonds } from './TrainingBonds';
